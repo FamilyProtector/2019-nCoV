@@ -23,7 +23,7 @@ henan = {}
 hainan = {}
 tianjin = {}
 jiangxi = {}
-shanxi1 = {} # 陕西
+Shaanxi = {} # 陕西
 guizhou = {}
 liaoning = {}
 xianggang = {}
@@ -33,7 +33,7 @@ xinjiang = {}
 gansu = {}
 yunnan = {}
 taiwan = {}
-shanxi2 = {} # 山西
+shanxi = {} # 山西
 jilin = {}
 hebei = {}
 ningxia = {}
@@ -42,8 +42,8 @@ qinghai = {} # none
 xizang = {} # none
 provinces_idx = [hubei, guangdong, zhejiang, chongqing, hunan, anhui, beijing,
                  shanghai, henan, guangxi, shandong, jiangxi, jiangsu, sichuan,
-                 liaoning, fujian, heilongjiang, hainan, tianjin, hebei, shanxi2,
-                 yunnan, xianggang, shanxi1, guizhou, jilin, gansu, taiwan,
+                 liaoning, fujian, heilongjiang, hainan, tianjin, hebei, shanxi,
+                 yunnan, xianggang, Shaanxi, guizhou, jilin, gansu, taiwan,
                  xinjiang, ningxia, aomen, neimenggu, qinghai, xizang]
 map = {
     '湖北':0, '广东':1, '浙江':2, '北京':3, '上海':4, '湖南':5, '安徽':6, '重庆':7,
